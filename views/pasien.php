@@ -18,7 +18,7 @@ if (isset($_POST['type'])) {
     <div class="card-body">
       <div class="mb-2">
         <a class="btn btn-success btn-sm" href="?url=pasien-input">
-          Tambah Pasien
+          Tambah Data Pasien
         </a>
       </div>
 

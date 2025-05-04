@@ -28,7 +28,7 @@ if (isset($_POST['type'])) {
     <div class="card">
       <div class="card-header">
         <div class="card-title">
-          Tambah Pasien
+          Tambah Data Pasien
         </div>
       </div>
       <div class="card-body">
